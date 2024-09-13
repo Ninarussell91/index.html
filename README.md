@@ -1,1 +1,1 @@
-Created an about me page for my personal webpage 
+Created a personal webpage 
